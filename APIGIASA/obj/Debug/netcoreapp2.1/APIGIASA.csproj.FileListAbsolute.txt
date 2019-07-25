@@ -1,0 +1,16 @@
+C:\Users\CoordinacionTI\source\repos\APIGIASA\APIGIASA\obj\Debug\netcoreapp2.1\APIGIASA.csproj.CoreCompileInputs.cache
+C:\Users\CoordinacionTI\source\repos\APIGIASA\APIGIASA\obj\Debug\netcoreapp2.1\APIGIASA.RazorAssemblyInfo.cache
+C:\Users\CoordinacionTI\source\repos\APIGIASA\APIGIASA\obj\Debug\netcoreapp2.1\APIGIASA.RazorAssemblyInfo.cs
+C:\Users\CoordinacionTI\source\repos\APIGIASA\APIGIASA\obj\Debug\netcoreapp2.1\APIGIASA.AssemblyInfoInputs.cache
+C:\Users\CoordinacionTI\source\repos\APIGIASA\APIGIASA\obj\Debug\netcoreapp2.1\APIGIASA.AssemblyInfo.cs
+C:\Users\CoordinacionTI\source\repos\APIGIASA\APIGIASA\obj\Debug\netcoreapp2.1\APIGIASA.csprojAssemblyReference.cache
+C:\Users\CoordinacionTI\source\repos\APIGIASA\APIGIASA\bin\Debug\netcoreapp2.1\APIGIASA.deps.json
+C:\Users\CoordinacionTI\source\repos\APIGIASA\APIGIASA\bin\Debug\netcoreapp2.1\APIGIASA.runtimeconfig.json
+C:\Users\CoordinacionTI\source\repos\APIGIASA\APIGIASA\bin\Debug\netcoreapp2.1\APIGIASA.runtimeconfig.dev.json
+C:\Users\CoordinacionTI\source\repos\APIGIASA\APIGIASA\bin\Debug\netcoreapp2.1\APIGIASA.dll
+C:\Users\CoordinacionTI\source\repos\APIGIASA\APIGIASA\bin\Debug\netcoreapp2.1\APIGIASA.pdb
+C:\Users\CoordinacionTI\source\repos\APIGIASA\APIGIASA\bin\Debug\netcoreapp2.1\APIGIASA.Views.dll
+C:\Users\CoordinacionTI\source\repos\APIGIASA\APIGIASA\obj\Debug\netcoreapp2.1\APIGIASA.RazorTargetAssemblyInfo.cache
+C:\Users\CoordinacionTI\source\repos\APIGIASA\APIGIASA\obj\Debug\netcoreapp2.1\APIGIASA.dll
+C:\Users\CoordinacionTI\source\repos\APIGIASA\APIGIASA\obj\Debug\netcoreapp2.1\APIGIASA.pdb
+C:\Users\CoordinacionTI\source\repos\APIGIASA\APIGIASA\obj\Debug\netcoreapp2.1\APIGIASA.csproj.CopyComplete
